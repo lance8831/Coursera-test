@@ -1,0 +1,58 @@
+*{
+    font-family: Georgia, Times, serif;
+}
+
+body{
+    background-color: #61122f;
+    font-size: 16px;
+}
+
+/** HEADER **/
+#header-nav{
+    background-color: #f6b319;
+    border-radius:0;
+    border:0;
+}
+
+/*.navbar-brand{
+   padding-top: 25px;
+}*/
+
+.navbar-brand h1{/*Restaurant name*/
+  color: #557c3e;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+    
+}
+
+#nav-list {
+  margin-top: 10px;
+  color: black;
+  font-size: 1.5em;
+  text-align: center;
+  background-color: #f6b319;
+}
+
+
+.divider {
+        height: 1px;
+        margin: auto;
+        overflow: hidden;
+        background-color: #e5e5e5;
+}
+
+/*#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}*/
