@@ -33,19 +33,44 @@ body{
 #nav-list {
   margin-top: 10px;
   color: black;
-  font-size: 1.5em;
+  font-size: 1.3em;
   text-align: center;
   background-color: #f6b319;
 }
 
 
 .divider {
-        height: 1px;
-        margin: auto;
-        overflow: hidden;
-        background-color: #e5e5e5;
+    height: 1px;
+    margin: auto;
+    overflow: hidden;
+    background-color: #e5e5e5;
 }
 
+/*End of navigation bar*/
+
+/*Body text*/
+#menu-title{
+   font-weight:bold;
+   color: white;
+   margin-bottom:20px;
+}
+
+#text-title{
+    font-size: 1.4em;
+    color: bisque;
+    background-color:gray;
+    margin-bottom: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+#description-text{
+    font-size: 100%;
+    color: bisque;
+    background-color:gray;
+    padding: 20px;
+    text-align: justify;
+}
 /*#nav-list a {
   color: #951C49;
   text-align: center;
